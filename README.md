@@ -1,2 +1,1 @@
-# LinearRegression
-Linear Regression usin USA_Housing dataset in Kaggle
+Linear Regression using USA_Housing dataset in Kaggle
